@@ -11,7 +11,7 @@
 
     <properties>
         <mule.version>4.4.0</mule.version> <!-- Specify Mule version -->
-        <mule.maven.plugin.version>3.9.0</mule.maven.plugin.version> <!-- Specify Mule Maven Plugin version -->
+        <mule.maven.plugin.version>3.9.1</mule.maven.plugin.version> <!-- Specify Mule Maven Plugin version -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
